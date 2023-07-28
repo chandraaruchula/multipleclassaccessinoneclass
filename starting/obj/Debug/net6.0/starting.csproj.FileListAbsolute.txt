@@ -1,0 +1,15 @@
+C:\Users\saipriyanka.a\source\repos\starting\bin\Debug\net6.0\starting.exe
+C:\Users\saipriyanka.a\source\repos\starting\bin\Debug\net6.0\starting.deps.json
+C:\Users\saipriyanka.a\source\repos\starting\bin\Debug\net6.0\starting.runtimeconfig.json
+C:\Users\saipriyanka.a\source\repos\starting\bin\Debug\net6.0\starting.dll
+C:\Users\saipriyanka.a\source\repos\starting\bin\Debug\net6.0\starting.pdb
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.csproj.AssemblyReference.cache
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.AssemblyInfoInputs.cache
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.AssemblyInfo.cs
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.csproj.CoreCompileInputs.cache
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.dll
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\refint\starting.dll
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.pdb
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\starting.genruntimeconfig.cache
+C:\Users\saipriyanka.a\source\repos\starting\obj\Debug\net6.0\ref\starting.dll
